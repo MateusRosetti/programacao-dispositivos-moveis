@@ -73,4 +73,3 @@ function GalleryScreen(){
 }
 export default GalleryScreen;
 
-44444444444444444
