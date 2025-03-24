@@ -20,7 +20,7 @@ const contatos =[
 },
 ];
 function ContactScreen(){
-return(
+return( 
     <View style={styles.container}>
    <View style={styles.appBar}>
   <Text style={styles.appTitle}>Contatos</Text>
@@ -44,7 +44,7 @@ return(
 }
 const styles = StyleSheet.create ({
 container: {flex:1,backgraundColor:"#FFFBFE",},
-
+  
 appBar:{backgroundColor: "#6750A4",height:64,paddingLeft:16,
 paddingRight:16,justifyContent:"center",marginBottom:8,},
 
